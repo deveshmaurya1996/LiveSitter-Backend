@@ -59,7 +59,7 @@ class Database {
             company: "Tech Corp",
             status: null,
             location: "San Francisco, CA",
-            salary: "$80,000 - $120,000",
+            salary: "8LPA - 12LPA",
             description: "Building modern web applications with React",
             appliedDate: new Date(),
             history: [] 
@@ -69,7 +69,7 @@ class Database {
             company: "Startup Inc",
             status: "Reviewed",
             location: "New York, NY",
-            salary: "$90,000 - $130,000",
+            salary: "9LPA - 13LPA",
             description: "Developing scalable backend services",
             appliedDate: new Date(Date.now() - 86400000),
             history: [
@@ -82,7 +82,7 @@ class Database {
             company: "Enterprise Ltd",
             status: "Interviewed",
             location: "Austin, TX",
-            salary: "$100,000 - $150,000",
+            salary: "10LPA - 15LPA",
             description: "Full-stack development with modern technologies",
             appliedDate: new Date(Date.now() - 172800000),
             history: [
